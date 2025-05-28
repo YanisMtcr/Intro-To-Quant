@@ -1,2 +1,2 @@
-# Intro Quant
+# Intro to Quantitative Finance
  
